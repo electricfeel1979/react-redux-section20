@@ -1,9 +1,8 @@
-import { useSelector, useDispatch } from "react-redux";
+import { useSelector, useDispatch } from 'react-redux';
 import { removeCar } from '../store';
 
 function CarList() {
   const dispatch = useDispatch();
-
   const cars = useSelector((state) => {
     return state.cars.data;
   });
@@ -25,14 +24,15 @@ function CarList() {
           Delete
         </button>
       </div>
-    )
+    );
   });
 
   return (
     <div className="car-list">
       {renderedCars}
+      <hr />
     </div>
-  )
+  );
 }
 
 export default CarList;

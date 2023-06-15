@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Andrew Ebert",
+      "id": 5
+    },
+    {
+      "name": "Ms. Ada MacGyver",
+      "id": 6
+    },
+    {
+      "name": "Jacquelyn Hammes",
+      "id": 7
+    },
+    {
+      "name": "Mr. Rita O'Hara",
+      "id": 8
+    }
+  ],
+  "albums": [],
+  "photos": []
+}

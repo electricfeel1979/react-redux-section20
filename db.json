@@ -18,6 +18,21 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Rubber Hat",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Concrete Chair",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Metal Bike",
+      "id": 13
     }
   ],
   "photos": []
